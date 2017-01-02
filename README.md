@@ -22,7 +22,7 @@
 
 1. 李光耀论中国与世界，2016年12月
 1. :+1: 奇特的一生（柳比歇夫坚持56年的“时间统计法”），by 格拉宁，2016年12月
-1. :+1: 成为乔布斯，by 布伦特•施兰德&里克•特策利，2016年12月
+1. :+1: 成为乔布斯，by 布伦特·施兰德&里克·特策利，2016年12月
 1. Jony Ive: The Genius Behind Apple's Greatest Products，by Leander Kahney，2014年5月
 1. :+1: 邓小平时代，by 傅高义，2014年1月
 
@@ -49,7 +49,7 @@
 1. MacTalk•人生元编程，by 池建强，2016年10月
 1. 代码的未来，by 松本行弘，2015年10月
 1. :+1: Just Enough Software Architecutre - A Risk Driven Approach，by George FairBanks，2014年6月
-1. 改变未来的九大算法，by 约翰•麦考密克，2014年4月
+1. 改变未来的九大算法，by 约翰·麦考密克，2014年4月
 
 
 
