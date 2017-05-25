@@ -47,6 +47,7 @@
 
 ## 技术
 
+1. [软件工程的事实与谬误](http://wuchenxu.com/2017/05/12/reading-notes-3-Facts-and-fallacies-of-software-engineering/), by Robert L·Glass, 2017年5月
 1. :+1: [一线架构师实践指南](http://wuchenxu.com/reading-notes-2-practice-guide-for-frontline-architects/)，by 温昱，2017年3月
 1. 重新定义团队：谷歌如何工作，by 拉兹洛·博克，2016年12月
 1. MacTalk•人生元编程，by 池建强，2016年10月
